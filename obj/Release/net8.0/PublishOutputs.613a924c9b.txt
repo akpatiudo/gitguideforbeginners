@@ -1,0 +1,7 @@
+C:\Users\ebene\desktop\dotnetapp01\DotNetWebApp\bin\Release\net8.0\publish\DotNetWebApp.exe
+C:\Users\ebene\desktop\dotnetapp01\DotNetWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\ebene\desktop\dotnetapp01\DotNetWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\ebene\desktop\dotnetapp01\DotNetWebApp\bin\Release\net8.0\publish\DotNetWebApp.dll
+C:\Users\ebene\desktop\dotnetapp01\DotNetWebApp\bin\Release\net8.0\publish\DotNetWebApp.deps.json
+C:\Users\ebene\desktop\dotnetapp01\DotNetWebApp\bin\Release\net8.0\publish\DotNetWebApp.runtimeconfig.json
+C:\Users\ebene\desktop\dotnetapp01\DotNetWebApp\bin\Release\net8.0\publish\DotNetWebApp.pdb
