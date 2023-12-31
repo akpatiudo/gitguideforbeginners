@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ebene\\desktop\\dotnetapp01\\DotNetWebApp\\DotNetWebApp.csproj": {}
+    "C:\\Users\\ebene\\Desktop\\dotnetapp01\\DotNetWebApp\\DotNetWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ebene\\desktop\\dotnetapp01\\DotNetWebApp\\DotNetWebApp.csproj": {
+    "C:\\Users\\ebene\\Desktop\\dotnetapp01\\DotNetWebApp\\DotNetWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ebene\\desktop\\dotnetapp01\\DotNetWebApp\\DotNetWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\ebene\\Desktop\\dotnetapp01\\DotNetWebApp\\DotNetWebApp.csproj",
         "projectName": "DotNetWebApp",
-        "projectPath": "C:\\Users\\ebene\\desktop\\dotnetapp01\\DotNetWebApp\\DotNetWebApp.csproj",
+        "projectPath": "C:\\Users\\ebene\\Desktop\\dotnetapp01\\DotNetWebApp\\DotNetWebApp.csproj",
         "packagesPath": "C:\\Users\\ebene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ebene\\desktop\\dotnetapp01\\DotNetWebApp\\obj\\",
+        "outputPath": "C:\\Users\\ebene\\Desktop\\dotnetapp01\\DotNetWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ebene\\AppData\\Roaming\\NuGet\\NuGet.Config"
