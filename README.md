@@ -104,7 +104,7 @@ git merge featuredotnet01  this will merge the featuredotnet01 branch into main
 
 ![image](https://github.com/akpatiudo/gitguideforbeginners/assets/118566096/8e4a7eb5-7c34-46cf-956f-a70e09564178)
 
-git show fd0fe3c..6ff0eecthis shows the activies that was commited with that commit id 
+git show fd0fe3c..6ff0eecthis      shows the activities that was committed with that commit id
 
 ![image](https://github.com/akpatiudo/gitguideforbeginners/assets/118566096/2a312faf-f186-4d46-9cb7-a2167a562cd1)
 
