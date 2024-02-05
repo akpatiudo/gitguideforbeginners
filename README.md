@@ -61,9 +61,9 @@ git checkout featuredotnet01:  Switches to the  featuredotnet01 branch.
 
 ![image](https://github.com/akpatiudo/gitguideforbeginners/assets/118566096/20d9291d-140e-4333-a347-34a110a0a1bf)
 
-## Edithing and Uploading Using Git
+## Editing and Uploading Using Git
 
-When you edith your code you are in the process of improving the version of your softwere, this improvment is what births a new version of the software and when you upload using Git, a new version of the software is added to the history of the project that can be used to revert to, keep track of changes, and many other things.
+When you Edith your code you are in the process of improving the version of your software, this improvement is what births a new version of the software and when you upload using Git, a new version of the software is added to the history of the project that can be used to revert to, keep track of changes, and many other things.
 
 nano Views/Home/Index.cshtml
 
